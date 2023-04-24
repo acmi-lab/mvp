@@ -1,0 +1,6 @@
+{
+  0: "A [MASK] news : ", 
+  1: "[SEP] This topic is about [MASK]", 
+  2: "Category : [MASK] : ", 
+  3: "[SEP] The category of this news is [MASK]"
+}

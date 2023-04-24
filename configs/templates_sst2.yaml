@@ -1,0 +1,6 @@
+{
+  0: "Sentiment of the statement is [MASK] . ", 
+  1: "[SEP] [MASK] ",
+  2: "This is a [MASK] statement ",
+  3: "[SEP] The statement is [MASK] "
+}

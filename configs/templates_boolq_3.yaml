@@ -1,0 +1,5 @@
+{
+  0: "Answer to the question is [MASK]",
+  1: "I think [MASK]",
+  2: "[SEP] The answer is [MASK]"
+}
